@@ -5,10 +5,10 @@
 ## I'm an Engineering Student, Developer, and AI Enthusiast!!
 
 - 🔭 I just qualified to the finals of IMOR 2020 : [Innovative Morocco 2020!][IMOR]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning Deep Learning / Machine Learning.
+- ⚡ Best Experience of 2020, Qualifying to the Semi-finals of [ALTEN MOROCCO SOFTWARE AWARDS 5!][AMSA]!
+- 👯 I’m looking to collaborate with professional entities.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 
 
 ### Connect with me:
@@ -95,6 +95,7 @@
 
 [website]: https://github.com/ElasriAyoub
 [IMOR]: https://media-exp1.licdn.com/dms/image/C4D2DAQHv0tEnqEO1EA/profile-treasury-image-shrink_1920_1920/0/1608895432171?e=1615154400&v=beta&t=rbWjFnvWw-AsC4RKhp65-l8ukgmDqviTidZOOAT0U3c
+[AMSA]: https://media-exp1.licdn.com/dms/image/C4D22AQEv-j8RmU2PQA/feedshare-shrink_800/0/1608479876338?e=1617840000&v=beta&t=o-bhv6nitRfygn6kWrdkf7lT2f-wu7f75AR3onWk0w4
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
