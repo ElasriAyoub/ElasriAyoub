@@ -4,7 +4,7 @@
 
 ## I'm an Engineering Student, Developer, and AI Enthusiast!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just qualified to the finals of IMOR 2020 : [Innovative Morocco 2020!][IMOR]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -94,11 +94,11 @@
 </details>
 
 [website]: https://github.com/ElasriAyoub
-[course]: http://vsCodeHero.com
+[IMOR]: https://media-exp1.licdn.com/dms/image/C4D2DAQHv0tEnqEO1EA/profile-treasury-image-shrink_1920_1920/0/1608895432171?e=1615154400&v=beta&t=rbWjFnvWw-AsC4RKhp65-l8ukgmDqviTidZOOAT0U3c
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/elasri-ayoub/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
