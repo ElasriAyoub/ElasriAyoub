@@ -23,7 +23,7 @@
 
 ---
 
-### 📺 Latest Activity
+### 📺 Latest Robotics & Renewable Energies Club Activity
 
 <!-- YOUTUBE:START -->
 - [NEXTGEN - EPISODE 6 : Servo Motor](https://www.facebook.com/crerensak/posts/1843648705791160?__cft__[0]=AZX66Q909Oll8U2qVSo-KWAdiZx87ktsMonMhp7I_nU0PE1FVqiZqNrCj0HuCLp7UkQ38JNsZL-tzKT9POiTta-r1k2lCP3r_qhzLFbubJB4nSIH5fFBBk2e8IhyYZbJV9e8cKWfICjrpr7Zrc7pprEdsMz-_hazn9nBxA7SosZFIzHSnGGIiRzJssKpgjdvncA&__tn__=%2CO%2CP-R)
@@ -34,21 +34,7 @@
 - [NEXTGEN - EPISODE 1 : Arduino ](https://www.facebook.com/crerensak/posts/1809852939170737?__cft__[0]=AZXaW6jpinbCGE5EFsikPHSGzM8UGkgqSL-CxR0SqfGwKGl4pnFsoEMAUs0cU1HuUjlWVqFdtJ8QDGgvrkwvy6NGdAFwTmYUMtjH3r5IQ5jTj6lSg4VZJPtSvzoCC4LRKaOwM7IFSs4vpPd5m_GxATqfO3lXO5Sj9Y50xmyc9X7w8cemPtd3sLj5WFYQaZIk2uw&__tn__=%2CO%2CP-R)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more of Robotics & Renewable Energies Club ...](https://www.facebook.com/crerensak)
 
 ---
 
