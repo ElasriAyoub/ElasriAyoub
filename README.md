@@ -4,7 +4,7 @@
 
 ## I'm an Engineering Student, Developer, and AI Enthusiast!!
 
-- 🔭 Published my first publication : [https://ijettjournal.org/archive/ijett-v69i10p205!][IJETT]!
+- 🔭 Published my first publication : [CNN Applied In Public Transport For The Protection Against The Covid-19 Spread][IJETT]!
 - 🔭 I just qualified to the finals of IMOR 2020 : [Innovative Morocco 2020][IMOR]!
 - 🌱 I’m currently learning Deep Learning / Machine Learning.
 - ⚡ Best Experience of 2020, Qualifying to the Semi-finals of [ALTEN Morocco Software Awards 5!][AMSA]!
@@ -41,4 +41,5 @@
 [facebook]: https://www.facebook.com/ayoub.elasri.5648
 [youtube]: https://www.youtube.com/channel/UCWxWJZxB_oKPCt_odGQmqkg
 [linkedin]: https://www.linkedin.com/in/elasri-ayoub/
+[IJETT]: https://ijettjournal.org/archive/ijett-v69i10p205
 
