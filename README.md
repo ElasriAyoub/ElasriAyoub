@@ -4,6 +4,7 @@
 
 ## I'm an Engineering Student, Developer, and AI Enthusiast!!
 
+- 🔭 Published my first publication : [https://ijettjournal.org/archive/ijett-v69i10p205][IJETT]!
 - 🔭 I just qualified to the finals of IMOR 2020 : [Innovative Morocco 2020][IMOR]!
 - 🌱 I’m currently learning Deep Learning / Machine Learning.
 - ⚡ Best Experience of 2020, Qualifying to the Semi-finals of [ALTEN Morocco Software Awards 5!][AMSA]!
