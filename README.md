@@ -36,7 +36,7 @@
 ➡️ [more of Robotics & Renewable Energies Club ...](https://www.facebook.com/crerensak)
 
 [website]: https://github.com/ElasriAyoub
-[IMOR]: https://www.linkedin.com/in/elasri-ayoub/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACNtPV4B1mGm5XemW-xcKob7X0vbsof6SoY,1608895591737)/
+[IMOR]: https://www.linkedin.com/feed/update/urn:li:activity:6872967478239076352/
 [AMSA]: https://www.linkedin.com/feed/update/urn:li:activity:6746453931792064512/
 [facebook]: https://www.facebook.com/ayoub.elasri.5648
 [youtube]: https://www.youtube.com/channel/UCWxWJZxB_oKPCt_odGQmqkg
