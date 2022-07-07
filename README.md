@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Lets_work_together&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/elasri-ayoub/)
 
-## I'm an Engineering Student, Developer, and AI Enthusiast!
+## I'm an Engineering Student, Developer, and Embedded Systems Enthusiast!
 
 - 🔭 Published my first publication : [CNN Applied In Public Transport For The Protection Against The Covid-19 Spread][IJETT]!
 - 🔭 I just qualified to the finals of IMOR 2020 : [Innovative Morocco 2020][IMOR]!
