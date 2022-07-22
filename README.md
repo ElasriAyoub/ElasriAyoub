@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Deep Learning / Machine Learning.
 - ⚡ Best Experience of 2020, Qualifying to the Semi-finals of [ALTEN Morocco Software Awards 5!][AMSA]!
 - 👯 I’m looking to collaborate with professional entities.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 
 
 ### Connect with me via Linkedin:
