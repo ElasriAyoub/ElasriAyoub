@@ -38,6 +38,6 @@
 [AMSA]: https://www.linkedin.com/feed/update/urn:li:activity:6746453931792064512/
 [facebook]: https://www.facebook.com/ayoub.elasri.5648
 [youtube]: https://www.youtube.com/channel/UCWxWJZxB_oKPCt_odGQmqkg
-[linkedin]: https://www.linkedin.com/in/elasri-ayoub/
+[linkedin]: https://www.linkedin.com/in/elasri-ayoub
 [IJETT]: https://ijettjournal.org/archive/ijett-v69i10p205
 
