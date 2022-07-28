@@ -35,7 +35,7 @@
 
 [website]: https://github.com/ElasriAyoub
 [IMOR]: https://www.linkedin.com/feed/update/urn:li:activity:6872967478239076352/
-[AMSA]: https://www.linkedin.com/feed/update/urn:li:activity:6746453931792064512/
+[AMSA]: https://www.linkedin.com/feed/update/urn:li:activity:6746453931792064512
 [facebook]: https://www.facebook.com/ayoub.elasri.5648
 [youtube]: https://www.youtube.com/channel/UCWxWJZxB_oKPCt_odGQmqkg
 [linkedin]: https://www.linkedin.com/in/elasri-ayoub
