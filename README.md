@@ -17,8 +17,10 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
 [website]: https://github.com/ElasriAyoub
 [IMOR]: https://www.linkedin.com/feed/update/urn:li:activity:6872967478239076352/
 [AMSA]: https://www.linkedin.com/feed/update/urn:li:activity:6746453931792064512
 [linkedin]: https://www.linkedin.com/in/elasri-ayoub
 [IJETT]: https://ijettjournal.org/archive/ijett-v69i10p205
+
